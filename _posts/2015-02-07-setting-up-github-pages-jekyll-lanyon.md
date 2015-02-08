@@ -45,6 +45,8 @@ Jeśli przy odpaleniu ```bash jeckyll --help``` pojawi się wężyk błędów, z
 I powinno Jekyllowi grać. Później będąc w katalogu z projektem (repozytorium) budujesz projekt przy użyciu ```bash jeckyll serve``` i na [http://localhost:4000/](http://localhost:4000) dostajesz zbudowaną stronkę. Gdy zapiszesz zmianę w plikach projektu, jeckyll sam odświeży zawartość projektu.
 8. Dodanie własnego aliasu dla domeny *shansky.github.io*
 
+	***to be continued...***
+
 
 
 I właśnie otrzymałeś fajną platformę mikroblogową.
