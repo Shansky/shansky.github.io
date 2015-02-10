@@ -110,10 +110,10 @@ title: Monitoring
 - [cronitor](https://cronitor.io/)
 - [prometheus](http://prometheus.io/)
 
-## Bezpieczeństwo
+## Sec
 
 - [bro](https://www.bro.org/)
 
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+Chcesz dodać coś od siebie? <a href="https://github.com/shansky/shansky.github.io/issues/new">Stwórz 'iszu'</a>
