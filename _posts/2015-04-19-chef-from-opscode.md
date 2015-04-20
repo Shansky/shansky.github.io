@@ -17,7 +17,6 @@ title: Chef
 
 ## Cooking - coding cookbooks
 1. [Baking Delicious resources with chef](http://sysadvent.blogspot.com/2014/12/day-21-baking-delicious-resources-with.html)
-2. []()
 
 ## Test Driven Development
 1. [The lazy sysadmin's guide to test driven chef cookbooks](http://sysadvent.blogspot.com/2013/12/day-11-lazy-sysadmins-guide-to-test.html)
@@ -32,7 +31,7 @@ title: Chef
 3. [Chef, cookbook versioning and the development cycle](http://cs.cementhorizon.com/2013/01/31/chef-cookbook-versioning-and-the-development-cycle/)
 
 ## Videos
-1. [chefconf2015][https://www.youtube.com/playlist?list=PL11cZfNdwNyO9CpTWH2qjYfzysEtpfOCd]
+1. [chefconf2015](https://www.youtube.com/playlist?list=PL11cZfNdwNyO9CpTWH2qjYfzysEtpfOCd)
 
 ## Projects
 ### Syntax&Style check
