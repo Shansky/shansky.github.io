@@ -1,21 +1,21 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+markdown:            kramdown
+highlighter:         rouge
+gems: [jekyll-paginate, jekyll-gist, jemoji]
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               shansky
 tagline:             'shansky blog'
-description:         'Shansky blog page written in "pinglish" (not english not polish) powered on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and based on Lanyon theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Shansky blog page written in "pinglish" (not english, not even polish) powered on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and based on Lanyon theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://blog.shansky.pl
 baseurl:             /
 paginate:            5
-timezone:			 Europe/Warsaw
+timezone:            Europe/Warsaw
 
 # About/contact
 author:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chef
+title: Chef fancy links
 ---
 
 ## Introduction
